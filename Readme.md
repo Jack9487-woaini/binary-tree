@@ -20,7 +20,7 @@
   
   7. **`階層(level)`**:樹根level為 1 ，有子節點的話，該子節點的 **`level = 父節點的階層數 + 1`**，所以以圖例1的 **B節點** 就會是 **` 1 (A's level) + 1 = 2 (B's level)`**
   
-  8. **`樹高(height)`** or **`樹深(depth)`**:為該樹的**`最大階層數(Max level)`**。圖例1 : height = 3
+  8. **`樹高(height)`** or **`樹深(depth)`**:為該樹的 **`最大階層數(Max level)`**。圖例1 : height = 3
   
   * 圖例1
   
