@@ -25,9 +25,7 @@
   * 圖例1.
   
                A  level:1
-               
              /   \
             B     C level:2
-            
            / \   / \
           D   E F   G level:3
