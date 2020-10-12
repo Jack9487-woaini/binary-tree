@@ -1,3 +1,4 @@
+# 遞迴走訪
 root = None # 根節點
 class TreeNode(): # 樹節點
     def __init__(self,data):
