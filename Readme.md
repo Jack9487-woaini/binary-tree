@@ -22,10 +22,10 @@
   
   8. 樹高(height) or 樹深(depth):為該樹的最大階層數(Max level)。圖例1:height = 3
   
-  * 圖例1.
+  * 圖例1
   
-               A  level:1
+             ` A  level:1
              /   \
             B     C level:2
            / \   / \
-          D   E F   G level:3
+          D   E F   G level:3`
