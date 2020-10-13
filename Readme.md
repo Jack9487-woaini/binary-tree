@@ -24,8 +24,12 @@
   
   * 圖例1
   
-               A  level:1
+               A  level:1 
              /   \
             B     C level:2
            / \   / \
           D   E F   G level:3
+## 二、二元樹介紹:
+     1.走訪方式:LDR、LRD、DLR
+     
+
