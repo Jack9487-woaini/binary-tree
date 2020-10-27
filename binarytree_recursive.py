@@ -10,7 +10,7 @@ class TreeNode(): # 樹節點
 class binary_tree():
     def __init__(self):
         return
-    def insertnode(data):
+    def insertnode(data):# 插入資料
         global root
         if (root == None):
             root = TreeNode(data)
