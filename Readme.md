@@ -1,4 +1,4 @@
-# 資料結構-二元樹/binary-tree
+# 資料結構-二元樹/binary-search tree
 
 
 
